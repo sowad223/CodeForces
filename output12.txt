@@ -1,0 +1,8 @@
+Shortest distances from 1
+To 1: 0
+To 2: 8
+To 3: 0
+To 4: 4
+To 5: 0
+To 6: 2
+To 7: inf

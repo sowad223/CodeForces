@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff877f81-327e-4652-9bde-e52cce776788" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/7_21201413_CSE221Assignment06_Summer2023/Task_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_21201413_CSE221Assignment06_Summer2023/Task_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_21201413_CSE221Assignment06_Summer2023/Task_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_21201413_CSE221Assignment06_Summer2023/input12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/united we stand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aedu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codeforcesdiv3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../div2codeforces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_21201413_CSE221Assignment06_Summer2023/input1_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/7_21201413_CSE221Assignment06_Summer2023/input1_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A game with board.py" beforeDir="false" afterPath="$PROJECT_DIR$/../A game with board.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Wa3F5jh4eHOjaEq8MGI1DaLFRw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff877f81-327e-4652-9bde-e52cce776788" name="Changes" comment="" />
+      <created>1696956758255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696956758255</updated>
+    </task>
+    <servers />
+  </component>
+</project>
